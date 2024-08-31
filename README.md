@@ -5,9 +5,9 @@
 
 ![Profile visits](https://img.shields.io/badge/Profile%20visits-0-blue)
 
-| About Me 
+| About Me|
 |----------|--------------|
-| **Name:** Samiddho Chatterjee<br>**Occupation:** Student<br>**Stream:** Electronics and Communication Engineering<br>**University:** Vellore Institute of Technology, Chennai<br>**Interests:** Python,ML,Antenna Designing, Analog Circuits<br>**Currently Learning:** Radar Systems and Satellite Communication<br>**Other Hobbies:** Watching and Playing Football<br>**Reach-me-at:** samiddhochatterjee2025@gmail.com | |
+| **Name:** Samiddho Chatterjee<br>**Occupation:** Student<br>**Stream:** Electronics and Communication Engineering<br>**University:** Vellore Institute of Technology, Chennai<br>**Interests:** Python,ML,Antenna Designing, Analog Circuits<br>**Currently Learning:** Radar Systems and Satellite Communication<br>**Other Hobbies:** Watching and Playing Football<br>**Reach-me-at:** samiddhochatterjee2025@gmail.com || chatterjeesamiddho@gmail.com
 
 ## Connect with me 🤝
 
