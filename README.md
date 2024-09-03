@@ -3,7 +3,7 @@
 ## I'm an undergrad who loves tinkering with circuits!
 
 
-![Profile visits](https://img.shields.io/badge/Profile%20visits-0-blue)
+![Profile visits](https://img.shields.io/badge/Profile%20visits--blue)
 
 | **About Me** |
 
