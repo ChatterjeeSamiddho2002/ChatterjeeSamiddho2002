@@ -3,7 +3,7 @@
 ## I'm an undergrad who loves tinkering with circuits!
 
 
-![Profile visits](https://img.shields.io/badge/Profile%20visits--blue)
+![Profile visits](https://komarev.com/ghpvc/?username=ChatterjeeSamiddho2002&label=Profile%20visits&color=0e75b6&style=flat )
 
 | **About Me** |
 
@@ -11,6 +11,6 @@
 
 ## Connect with me 🤝
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/SamiddhoChatterjee)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samiddho-chatterjee-6a650b221)
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/samiddhochatterjee)
