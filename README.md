@@ -7,7 +7,7 @@
 
 | **About Me** |
 
- **Name:** Samiddho Chatterjee<br>**Occupation:** Student<br>**Stream:** Electronics and Communication Engineering<br>**University:** Vellore Institute of Technology, Chennai<br>**Experience**: KPIT -- C and Embedded Systems interrn<br>**Interests:** Python,ML,Antenna Designing, Analog Circuits<br>**Other Hobbies:** Watching and Playing Football<br>**Reach-me-at:** samiddhochatterjee2025@gmail.com || chatterjeesamiddho@gmail.com
+ **Name:** Samiddho Chatterjee<br>**Occupation:** Student<br>**Stream:** Electronics and Communication Engineering<br>**University:** Vellore Institute of Technology, Chennai<br>**Experience**: KPIT -- C and Embedded Systems intern<br>**Interests:** Python,ML,Antenna Designing, Analog Circuits<br>**Other Hobbies:** Watching and Playing Football<br>**Reach-me-at:** samiddhochatterjee2025@gmail.com || chatterjeesamiddho@gmail.com
 
 ## Connect with me 🤝
 
