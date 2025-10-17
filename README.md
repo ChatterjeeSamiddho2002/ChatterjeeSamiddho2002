@@ -7,11 +7,12 @@
 
 | **About Me** |
 
- **Name:** Samiddho Chatterjee<br>**Occupation:** Student<br>**Stream:** Electronics and Communication Engineering<br>**University:** UG: Vellore Institute of Technology, Chennai  PG: BIT Mesra <br>**Experience**: KPIT -- C and Embedded Systems intern<br>**Interests:** Python,ML,Antenna Designing, Analog Circuits<br>**Other Hobbies:** Watching and Playing Football<br>**Reach-me-at:** samiddhochatterjee2025@gmail.com || chatterjeesamiddho@gmail.com
+ **Name:** Samiddho Chatterjee<br>**Occupation:** Student<br>**Stream:** Electronics and Communication Engineering<br>**UG University:** Vellore Institute of Technology, Chennai <br>**PG University: BIT Mesra** <br>**Experience**: KPIT -- C and Embedded Systems intern<br>**Interests:** Python,ML,Antenna Designing, Analog Circuits<br>**Other Hobbies:** Watching and Playing Football<br>**Reach-me-at:** samiddhochatterjee2025@gmail.com || chatterjeesamiddho@gmail.com
 
 ## Connect with me 🤝
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samiddho-chatterjee-6a650b221)
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/samiddhochatterjee)
+
 
